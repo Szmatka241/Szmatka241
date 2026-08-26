@@ -2,7 +2,7 @@
 
 # Adrian Zaremba
 
-# Where Am I From
+# Where I Am From
 I grew up in the Chicago land suburbs (Fun fact even though I am not a Chicago resident I have a Chicago zip code)
 
 # IT Interest
