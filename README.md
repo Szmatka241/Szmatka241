@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 # Adrian Zaremba
+![image](https://github.com/Szmatka241/Szmatka241/blob/main/20250729_120613.jpg)
 
 # Where I Am From
 I grew up in the Chicago land suburbs (Fun fact even though I am not a Chicago resident I have a Chicago zip code)
