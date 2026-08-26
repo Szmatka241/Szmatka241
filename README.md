@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**Szmatka241/Szmatka241** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Adrian Zaremba
 
-Here are some ideas to get you started:
+# Where Am I From
+I grew up in the Chicago land suburbs (Fun fact even though I am not a Chicago resident I have a Chicago zip code)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# IT Interest
+I have an interest in the Hardware side of IT, but I do also enjoy working with software.
+
+# My first computing device
+The first computer/laptop I ever used was a laptop running Windows XP, and it is what got me into computers.
+
+# Something interesting about me
+I may not look like it but I am surprisingly flexible meaning at one point I could put both of my feet behind my head (I have not checked for a year or two so I do not know if I still have it in me)
+
+
